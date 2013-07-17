@@ -21,6 +21,7 @@
 	</properties>
 
 	<dependencies>
+		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
@@ -62,7 +63,7 @@
 			<version>${spring.framework.version}</version>
 		</dependency>
 
-
+		<!-- Apache Camel -->
 		<dependency>
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-core</artifactId>
